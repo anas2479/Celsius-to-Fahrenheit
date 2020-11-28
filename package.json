@@ -1,0 +1,14 @@
+{
+  "name": "temcal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "js/app.js",
+  "scripts": {
+    "compile-css": "node-sass sass/style.scss css/style.css -w"
+  },
+  "author": "Anas Mohamed",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
